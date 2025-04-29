@@ -8,3 +8,8 @@
 * support automation workflow
 
 あと、CDKプロジェクトのディレクトリ構成は注目に値するか。
+
+エンタープライズアーキテクチャを定義するためのフレームワーク
+
+* The Open Group Architecture Framework(TOGAF)(AWS推奨)
+* Zachman Framework(AWS推奨)
